@@ -1,0 +1,92 @@
+body{
+    background-color: aqua;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.inner-main{
+    width: 70%;
+
+    background-image
+    
+    : url(
+        ./laptop.jpg
+    ) ;
+    background-size: cover;
+}
+
+.form{
+    background-color: rgb(255, 255, 255);
+    width: 35%;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+.formh2{
+    margin-left: 10px;
+}
+
+.form-val{
+    margin: 10px;
+}
+
+.form-val input{
+    margin-top: 30px;
+}
+
+.form-val input :active{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.inner-form p{
+    padding: 0;
+    margin-top: 24px;
+    margin: 10px;
+    font-size: 15px;
+    font-weight: 900;
+}
+
+.form-val input{
+    width: 90%;
+    padding: 10px;
+    border-radius: 4px;
+
+border-top: none;
+border-right: none;
+border-left: none;    
+}
+
+.form-val p{
+    color: blueviolet;
+}
+
+.form-val h4{
+    text-align: center;
+}
+
+.form-val span{
+    color: blueviolet;
+}
+
+.btn{
+    margin-top: 50px;
+    width: 95%;
+}
+
+.btn button{
+    width: 100%;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}

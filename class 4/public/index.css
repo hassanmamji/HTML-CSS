@@ -1,0 +1,22 @@
+h1{
+    color: brown;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgreen;
+}
+
+p{
+   font-weight: bold;
+}
+
+span{
+    font-weight: bold;
+
+}
+
+h1{
+    font-family: "Bona Nova SC", serif;
+  font-weight: 700;
+  font-style: normal;
+}

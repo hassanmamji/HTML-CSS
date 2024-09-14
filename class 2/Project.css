@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(153, 153, 255);
+}
+
+.ContentIner{
+    align-items: center;
+    margin: 10px;
+}
+
+::content{
+    align-items: center;
+}

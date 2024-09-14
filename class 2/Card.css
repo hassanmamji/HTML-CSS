@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(153, 153, 255);
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    
+}
+
+.card_1{
+    height: 20%;
+    /* border-radius: 10px; */
+    margin-left: 15px;
+    
+}
+.img img{
+    border-radius: 9px;
+
+    background-color: rgb(254, 252, 250); 
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+}
+
+.content{
+    /* padding: 10px 10px 15px 5px; */
+    background-color: rgb(254, 252, 250);
+    border-radius: 10px;
+    
+}
+
+.contentIner{
+    margin: 10px;
+}
+
+.cardFooter{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    
+    
+}
+
+.contentIner button{
+    background-color: rgb(102, 102, 205);
+    color: rgb(246, 241, 235);
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
+
+.cardFooter img{
+    border-radius: 50%;
+}
+
+.cardFooter h4{
+    margin: 5px;
+}
+
+
